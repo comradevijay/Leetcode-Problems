@@ -1,57 +1,48 @@
 class Solution:
     def maximumSafenessFactor(self, grid: List[List[int]]) -> int:
         n = len(grid)
-        dist = [[-1] * n for _ in range(n)]
-        q = deque()
-
+        thieves = deque([])
+        mDist = [ [-1]*n for i in range(n) ]
         for i in range(n):
             for j in range(n):
-                if grid[i][j]:
-                    dist[i][j] = 0
-                    q.append((i, j))
+                if (grid[i][j] == 1):
+                    thieves.append( (i,j) )
+                    mDist[i][j] = 0
+        if (mDist[0][0] == 0 or mDist[-1][-1] == 0):
+            return 0
 
-        d = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        dirs = [(1,0),(-1,0),(0,1),(0,-1)]
+        while (thieves):
+            r, c = thieves.popleft()
+            for rOS, cOS in dirs:
+                adjR, adjC = rOS+r, cOS+c
+                if (0 <= adjR < n and 0 <= adjC < n and mDist[adjR][adjC] == -1):
+                    mDist[adjR][adjC] = mDist[r][c] + 1
+                    thieves.append((adjR, adjC))
+        
+        travel = deque([(mDist[0][0], 0, 0)])
+        visited = [ [False]*n for i in range(n) ]
+        visited[0][0] = True
+        ans = min(mDist[0][0], mDist[-1][-1])
+        
+        while (travel):
+            safety, r, c = travel.popleft()
+            ans = min(safety, ans)
+            if (r == n-1 and c == n-1):
+                return ans
 
-        while q:
-            x, y = q.popleft()
-            for dx, dy in d:
-                nx, ny = x + dx, y + dy
-                if 0 <= nx < n and 0 <= ny < n and dist[nx][ny] == -1:
-                    dist[nx][ny] = dist[x][y] + 1
-                    q.append((nx, ny))
+            for rOS, cOS in dirs:
+                adjR, adjC = rOS+r, cOS+c
+                if (0 <= adjR < n and 0 <= adjC < n and not visited[adjR][adjC]):
+                    visited[adjR][adjC] = True
+                    nextSafety = min(mDist[adjR][adjC], safety)
+                    if (nextSafety < ans):
+                        travel.append( (nextSafety, adjR, adjC) )
+                    else:
+                        travel.appendleft( (nextSafety, adjR, adjC) )
+            # print(travel)
 
-        def check(k):
-            if dist[0][0] < k:
-                return False
-            vis = [[False] * n for _ in range(n)]
-            q = deque([(0, 0)])
-            vis[0][0] = True
-            while q:
-                x, y = q.popleft()
-                if x == n - 1 and y == n - 1:
-                    return True
-                for dx, dy in d:
-                    nx, ny = x + dx, y + dy
-                    if (
-                        0 <= nx < n
-                        and 0 <= ny < n
-                        and not vis[nx][ny]
-                        and dist[nx][ny] >= k
-                    ):
-                        vis[nx][ny] = True
-                        q.append((nx, ny))
-            return False
-
-        lo, hi = 0, max(max(row) for row in dist)
-        ans = 0
-        while lo <= hi:
-            mid = (lo + hi) // 2
-            if check(mid):
-                ans = mid
-                lo = mid + 1
-            else:
-                hi = mid - 1
-        return ans
+        return -1
         
         
 
