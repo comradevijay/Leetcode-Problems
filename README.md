@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/comradevijay/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/comradevijay/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/comradevijay/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [1004-max-consecutive-ones-iii](https://github.com/comradevijay/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/comradevijay/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/comradevijay/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/comradevijay/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/comradevijay/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/comradevijay/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/comradevijay/Leetcode-Problems/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/comradevijay/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/comradevijay/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
