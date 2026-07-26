@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/comradevijay/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/comradevijay/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/comradevijay/Leetcode-Problems/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Prefix Sum
 |  |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/comradevijay/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/comradevijay/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
@@ -59,9 +62,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Quickselect
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
