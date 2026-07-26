@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/comradevijay/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/comradevijay/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/comradevijay/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/comradevijay/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/comradevijay/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/comradevijay/Leetcode-Problems/tree/master/0443-string-compression) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/comradevijay/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -48,4 +51,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/comradevijay/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Quickselect
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
