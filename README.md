@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/comradevijay/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/comradevijay/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/comradevijay/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [1122-relative-sort-array](https://github.com/comradevijay/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/comradevijay/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/comradevijay/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/comradevijay/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/comradevijay/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [1122-relative-sort-array](https://github.com/comradevijay/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/comradevijay/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Bucket Sort
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/comradevijay/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/comradevijay/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [1122-relative-sort-array](https://github.com/comradevijay/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## Counting
 |  |
 | ------- |
@@ -101,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/comradevijay/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/comradevijay/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
