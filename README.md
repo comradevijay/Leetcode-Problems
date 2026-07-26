@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/comradevijay/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/comradevijay/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/comradevijay/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/comradevijay/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/comradevijay/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/comradevijay/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
