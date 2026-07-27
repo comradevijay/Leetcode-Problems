@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/comradevijay/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/comradevijay/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/comradevijay/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/comradevijay/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/comradevijay/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/comradevijay/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/comradevijay/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/comradevijay/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/comradevijay/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Heap (Priority Queue)
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/comradevijay/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/comradevijay/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/comradevijay/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
