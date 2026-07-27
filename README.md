@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/comradevijay/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/comradevijay/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/comradevijay/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/comradevijay/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/comradevijay/Leetcode-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
