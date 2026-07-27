@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/comradevijay/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/comradevijay/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/comradevijay/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/comradevijay/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/comradevijay/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Heap (Priority Queue)
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/comradevijay/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/comradevijay/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
