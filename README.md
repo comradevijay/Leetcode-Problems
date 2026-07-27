@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/comradevijay/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/comradevijay/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/comradevijay/Leetcode-Problems/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/comradevijay/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/comradevijay/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/comradevijay/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/comradevijay/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/comradevijay/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/comradevijay/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/comradevijay/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/comradevijay/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/comradevijay/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/comradevijay/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/comradevijay/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/comradevijay/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
