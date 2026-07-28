@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/comradevijay/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/comradevijay/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/comradevijay/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/comradevijay/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/comradevijay/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/comradevijay/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/comradevijay/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/comradevijay/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
 |  |
 | ------- |
