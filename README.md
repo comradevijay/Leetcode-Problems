@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/comradevijay/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [1927-sum-game](https://github.com/comradevijay/Leetcode-Problems/tree/master/1927-sum-game) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/comradevijay/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/comradevijay/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/comradevijay/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [1927-sum-game](https://github.com/comradevijay/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/comradevijay/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/comradevijay/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/comradevijay/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/comradevijay/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+| [1927-sum-game](https://github.com/comradevijay/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/comradevijay/Leetcode-Problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/comradevijay/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/comradevijay/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/comradevijay/Leetcode-Problems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
